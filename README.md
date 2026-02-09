@@ -1,3 +1,5 @@
 ### Hi there 👋 my name is fedor 
 
-- 🌱 I’m currently learning Python
+- Beginner Fullstack Developer
+
+- Beginner Python Devoloper
