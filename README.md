@@ -4,7 +4,7 @@
 
 ### full-stack developer · interfaces / products / web
 
-[![Portfolio](https://img.shields.io/badge/portfolio-open-162235?style=for-the-badge&logo=googlechrome&logoColor=B9D1EA)](https://fedor-kukla-portfolio.sharpmoon8.chatgpt.site)
+[![Portfolio](https://img.shields.io/badge/portfolio-open-162235?style=for-the-badge&logo=googlechrome&logoColor=B9D1EA)](https://heexmex.github.io/)
 [![Telegram](https://img.shields.io/badge/telegram-@heexmex-162235?style=for-the-badge&logo=telegram&logoColor=B9D1EA)](https://t.me/heexmex)
 [![Email](https://img.shields.io/badge/email-heexmex%40yandex.ru-162235?style=for-the-badge&logo=minutemailer&logoColor=B9D1EA)](mailto:heexmex@yandex.ru)
 
@@ -12,7 +12,7 @@
 
 > Делаю сайты, которые хочется долистать до конца.
 
-Собираю цифровые продукты от первого экрана до запуска: интерфейсы, интернет‑магазины, сервисы, API и SEO. Люблю точную типографику, понятную логику и детали, которые приятно трогать.
+Собираю цифровые продукты от первого экрана до запуска: интерфейсы, интернет-магазины, сервисы, API и SEO. Люблю точную типографику, понятную логику и детали, которые приятно трогать.
 
 ## Стек
 
